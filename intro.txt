@@ -1,0 +1,2 @@
+"I learned the basics of Git: tracking changes, committing, branching, and pushing to GitHub." 
+"I also practiced creating branches and making pull requests on GitHub." 
